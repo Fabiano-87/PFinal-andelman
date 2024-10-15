@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "NeoRhythm",
+        "precio": 250,
+        "imagen": "img/neorhythm2.jpg",
+        "descripcion": "NeoRhythm offers the only non-invasive technology that allows you to choose your state of mind. Designed to help you calm down, sleep better, relax, reduce stress, increase focus and more."
+    },
+    {
+        "id": 2,
+        "nombre": "Neurovizr",
+        "precio": 499,
+        "imagen": "img/neurovizr1.jpg",
+        "descripcion": "NeuroVIZR is a wearable brain training and relaxation device to enjoy neural training disguised as entertainment. The compositions of the first language - the structural light underlying all organic life - represent an entirely new art form developed by Garnet Dupuis."
+    },
+    {
+        "id": 3,
+        "nombre": "Biohacker's Redlight Panel",
+        "precio": 396,
+        "imagen": "img/redpanel2.jpg",
+        "descripcion": "Faster recovery and muscle pain relief? The unique red spotlight is now available in the Biohacker online store to energize your day and boost your recovery."
+    },
+    {
+        "id": 4,
+        "nombre": "Sensate 2",
+        "precio": 260,
+        "imagen": "img/sensate23.png",
+        "descripcion": "Sensate is a pioneering product that offers an innovative solution to stress and anxiety."
+    },
+    { 
+        "id": 5, 
+        "nombre": "Spotlight Therapy Device", 
+        "precio": 89, 
+        "imagen": "img/spotlight.png", 
+        "descripcion": "Faster recovery and muscle pain relief? The unique red spotlight is now available in the Biohacker online store to energize your day and boost your recovery. With red light, you practically get improved circadian rhythms and deeper sleep rhythms." 
+    },
+    { 
+        "id": 6, 
+        "nombre": "QuietOn", 
+        "precio": 214, 
+        "imagen": "img/quieton.png", 
+        "descripcion": "Have you ever noticed that despite their promises, the most advanced earplugs can't drown out snoring, street noise or noisy neighbors? These disturbances can be suppressed with only one medicine – the revolutionary QuietOn 3.1 sleep headphones." 
+    },
+    { 
+        "id": 7, 
+        "nombre": "Acetrack Ketone Meter", 
+        "precio": 188, 
+        "imagen": "img/acetrack.png", 
+        "descripcion": "Monitoring ketosis is as easy as breathing. With a simple home measurement, you can monitor your metabolism and see immediately when your body is burning fat - and not. Use Acetrack anytime, anywhere. All you need is a mobile app and a pocket-friendly device, Acetrack is a portable breathalyzer that detects acetone in exhaled breath. Measure your ketogenic levels non-invasively and quickly with a simple exhale." 
+    },
+    { 
+        "id": 8, 
+        "nombre": "FlexBeam Recovery Device", 
+        "precio": 499, 
+        "imagen": "img/flexbeam.png", 
+        "descripcion": "FlexBeam offers a targeted application of red and infrared light that works directly where it is needed and also produces important systemic effects on the whole body and accelerates recovery." 
+    },
+    { 
+        "id": 9, 
+        "nombre": "Elvy charger", 
+        "precio": 64, 
+        "imagen": "img/elvy.png", 
+        "descripcion": "Elvy Charger is a unique mobile phone charger that allows you to achieve quality sleep by blocking up to 95% of the radiation coming towards you when charging at night." 
+    },
+    { 
+        "id": 10, 
+        "nombre": "Hypervibe G14 HOME V3", 
+        "precio": 2799, 
+        "imagen": "img/hypervibe.png", 
+        "descripcion": "The power of this vibrating plate does not run out. Hypervibe is the secret weapon for more efficient brain function, bones and muscles. The vibration plate is a great tool for interval training. A minute on the device brings the same benefits as a 20-minute walk. Very effective bone and body strengthener. Also works on Android and Apple devices." 
+    },
+    { 
+        "id": 11, 
+        "nombre": "DoctorAir Exagun Hyper", 
+        "precio": 89, 
+        "imagen": "img/doctorair.png", 
+        "descripcion": "Discover the epitome of relaxation and well-being with DoctorAir Exagun Hyper, an innovation designed to redefine your self-care routine." 
+    },
+    { 
+        "id": 12, 
+        "nombre": "Portable Wooden Standing Desk", 
+        "precio": 237, 
+        "imagen": "img/portable.jpg", 
+        "descripcion": "Turn any normal table into a standing table with a stylish Nordic design. Possibility to adjust to 8 different heights. Two different colored solutions can be assembled from the same parts. The material is wood. Very durable and high-quality construction." 
+    }
+]
